@@ -30,8 +30,8 @@ public class ShopPage {
         Map<String,Float> productPriceMap = new HashMap<>();
 
         for (Product product: shoppingList) {
-            LOGGER.info("Product: {},  Quantity: {}", product.getName(), product.getQuantity());
-            LOGGER.info("Price Value: {}", getPriceValue(PRODUCT_PRICE.of(product.getName())));
+            LOGGER.debug("Product: {},  Quantity: {}", product.getName(), product.getQuantity());
+            LOGGER.debug("Price Value: {}", getPriceValue(PRODUCT_PRICE.of(product.getName())));
             productPriceMap.put(product.getName(),getPriceValue(PRODUCT_PRICE.of(product.getName())));
         }
         return productPriceMap;

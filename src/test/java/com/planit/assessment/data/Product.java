@@ -1,5 +1,6 @@
 package com.planit.assessment.data;
 
+import com.opencsv.bean.CsvBindByName;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
@@ -11,8 +12,13 @@ import lombok.RequiredArgsConstructor;
 public class Product {
 
     private String id;
-    @NonNull private String name;
-    @NonNull private int quantity;
+
+    @NonNull
+    @CsvBindByName(column = "productName")
+    private String name;
+    @NonNull
+    @CsvBindByName
+    private int quantity;
     private Float price;
     private String category;
 

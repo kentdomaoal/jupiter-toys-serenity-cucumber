@@ -15,19 +15,19 @@ public class CartPage {
             .locatedBy("//*[contains(@class,'total')]");
 
     public static Question<Float> priceOf(String productName) {
-        return Question.about(productName+" price").answeredBy(
+        return Question.about(productName+"'s price").answeredBy(
                 actor -> ShopPage.getPriceValue(PRICE_TEXT.of(productName))
         );
     }
 
     public static Question<Float> subtotalOf(String productName) {
-        return Question.about(productName+" subtotal").answeredBy(
+        return Question.about(productName+"'s subtotal").answeredBy(
                 actor -> ShopPage.getPriceValue(SUBTOTAL_TEXT.of(productName))
         );
     }
 
     public static Question<Float> totalAmount() {
-        return Question.about("total amount").answeredBy(
+        return Question.about("Total Amount").answeredBy(
                 actor -> ShopPage.getPriceValue(TOTAL_TEXT)
         );
     }
