@@ -1,4 +1,4 @@
-Serenity report generated 30-12-2022 06:14:21
+Serenity report generated 30-12-2022 06:23:15
 
 Test Cases:         4  (including 9 rows of test data)
 Passed:             4
