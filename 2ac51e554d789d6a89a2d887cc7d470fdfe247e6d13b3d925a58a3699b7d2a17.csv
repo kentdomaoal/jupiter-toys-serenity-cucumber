@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Contact Page","Navigates to Contact Page and validate successful submission","SUCCESS","2022-12-30T06:32:21.767940777Z[Etc/UTC]","0.0","29.27"
+"Contact Page","Navigates to Contact Page and validate successful submission","SUCCESS","2022-12-31T02:32:19.399633329Z[Etc/UTC]","0.0","34.92"
+"Jupiter Toys Navigation Links","Navigate to a page and validate Current Url","SUCCESS","2022-12-31T02:32:54.328822637Z[Etc/UTC]","0.0","3.5"

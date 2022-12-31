@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Jupiter Toys Cart Page" skipped="0" tests="1" time="15.91" timestamp="2022-12-30 06:31:55"><testcase name="Buys Products and validate prices, subtotal, total in Cart Page"/></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Jupiter Toys Cart Page" skipped="0" tests="1" time="13.76" timestamp="2022-12-31 02:31:55"><testcase name="Buys Products and validate prices, subtotal, total in Cart Page"/></testsuite>
