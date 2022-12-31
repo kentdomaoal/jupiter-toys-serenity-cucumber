@@ -1,6 +1,8 @@
 # jupiter-toys-serenity-cucumber
 Sample Test automation using Serenity Screenplay + Cucumber.
 
+Data-driven using Excel or CSV file.
+
 Github actions were setup for its CI/CD Pipeline.
 
 
@@ -23,7 +25,7 @@ Github actions were setup for its CI/CD Pipeline.
 
 ### 3. View html report
 
-SERENITY REPORTS can be found on the following:
+After test execution, SERENITY REPORTS can be found on the following:
   - Full Report:
 
         /target/site/serenity/index.html
