@@ -1,4 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Jupiter Toys Cart Page","Buys Products and validate prices, subtotal, total in Cart Page","SUCCESS","2023-01-03T05:51:06.383759724Z[Etc/UTC]","0.0","13.09"
-"Contact Page","Navigates to Contact Page and validate error messages for mandatory fields","SUCCESS","2023-01-03T05:51:19.682956907Z[Etc/UTC]","0.0","10.36"
-"Contact Page","Navigates to Contact Page and validate successful submission","SUCCESS","2023-01-03T05:51:30.182592329Z[Etc/UTC]","0.0","47.69"
+"Jupiter Toys Cart Page","Buys Products and validate prices, subtotal, total in Cart Page","SUCCESS","2023-01-03T05:57:45.996057837Z[Etc/UTC]","0.0","16.8"
+"Contact Page","Navigates to Contact Page and validate successful submission","SUCCESS","2023-01-03T05:58:12.694592078Z[Etc/UTC]","0.0","54.18"
