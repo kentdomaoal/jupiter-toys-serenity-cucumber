@@ -1,3 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Contact Page","Navigates to Contact Page and validate error messages for mandatory fields","SUCCESS","2023-01-03T05:37:03.086480265Z[Etc/UTC]","0.0","10.27"
-"Contact Page","Navigates to Contact Page and validate successful submission","SUCCESS","2023-01-03T05:37:13.487136324Z[Etc/UTC]","0.0","44.45"
+"Contact Page","Navigates to Contact Page and validate error messages for mandatory fields","SUCCESS","2023-01-03T05:51:19.682956907Z[Etc/UTC]","0.0","10.36"
+"Contact Page","Navigates to Contact Page and validate successful submission","SUCCESS","2023-01-03T05:51:30.182592329Z[Etc/UTC]","0.0","47.69"
