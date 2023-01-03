@@ -1,4 +1,4 @@
-package com.planit.assessment;
+package com.project.example;
 
 import java.util.Arrays;
 import java.util.List;

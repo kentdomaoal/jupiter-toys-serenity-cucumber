@@ -1,4 +1,4 @@
-package com.planit.assessment.data;
+package com.project.example.data;
 
 import com.opencsv.bean.CsvBindByName;
 import lombok.Data;

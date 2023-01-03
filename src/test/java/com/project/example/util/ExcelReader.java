@@ -1,4 +1,4 @@
-package com.planit.assessment.util;
+package com.project.example.util;
 
 import java.io.File;
 import java.io.IOException;

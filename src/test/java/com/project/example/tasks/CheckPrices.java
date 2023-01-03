@@ -1,7 +1,7 @@
-package com.planit.assessment.tasks;
+package com.project.example.tasks;
 
-import com.planit.assessment.data.Product;
-import com.planit.assessment.pages.ShopPage;
+import com.project.example.data.Product;
+import com.project.example.pages.ShopPage;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 

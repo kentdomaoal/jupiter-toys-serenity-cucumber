@@ -1,7 +1,7 @@
-package com.planit.assessment.tasks;
+package com.project.example.tasks;
 
-import com.planit.assessment.data.Product;
-import com.planit.assessment.pages.CartPage;
+import com.project.example.data.Product;
+import com.project.example.pages.CartPage;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.ensure.Ensure;
@@ -10,9 +10,6 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-
-import static com.planit.assessment.pages.CartPage.sumOf;
-import static com.planit.assessment.pages.CartPage.totalAmount;
 
 public class EnsureThat {
     public static Performable subtotal_for_each_product_should_be_correct( ) {
@@ -56,7 +53,7 @@ public class EnsureThat {
                 actor -> {
 //                    Float totalAmount = ShopPage.getPriceValue(CartPage.TOTAL_TEXT);
                     List<Double> subtotals = actor.recall("Subtotal of each product");
-                    actor.attemptsTo(Ensure.that(totalAmount()).isEqualTo(sumOf(subtotals)));
+                    actor.attemptsTo(Ensure.that(CartPage.totalAmount()).isEqualTo(CartPage.sumOf(subtotals)));
                 }
         );
     }

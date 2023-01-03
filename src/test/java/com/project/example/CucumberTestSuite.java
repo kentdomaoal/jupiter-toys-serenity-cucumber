@@ -1,4 +1,4 @@
-package com.planit.assessment;
+package com.project.example;
 
 import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;

@@ -1,6 +1,6 @@
-package com.planit.assessment.stepdefinitions;
+package com.project.example.stepdefinitions;
 
-import com.planit.assessment.tasks.EnsureThat;
+import com.project.example.tasks.EnsureThat;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.Actor;

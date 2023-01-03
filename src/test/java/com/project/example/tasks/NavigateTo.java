@@ -1,6 +1,6 @@
-package com.planit.assessment.tasks;
+package com.project.example.tasks;
 
-import com.planit.assessment.pages.HomePage;
+import com.project.example.pages.HomePage;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Click;

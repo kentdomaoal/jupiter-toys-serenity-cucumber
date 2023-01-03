@@ -1,4 +1,4 @@
-package com.planit.assessment.stepdefinitions;
+package com.project.example.stepdefinitions;
 
 import io.cucumber.java.Before;
 import io.cucumber.java.ParameterType;

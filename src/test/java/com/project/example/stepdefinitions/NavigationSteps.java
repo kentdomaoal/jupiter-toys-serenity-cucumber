@@ -1,4 +1,4 @@
-package com.planit.assessment.stepdefinitions;
+package com.project.example.stepdefinitions;
 
 import io.cucumber.java.en.Then;
 import net.serenitybdd.screenplay.Actor;

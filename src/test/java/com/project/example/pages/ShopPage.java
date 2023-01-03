@@ -1,6 +1,6 @@
-package com.planit.assessment.pages;
+package com.project.example.pages;
 
-import com.planit.assessment.data.Product;
+import com.project.example.data.Product;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.questions.Text;

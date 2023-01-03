@@ -1,4 +1,4 @@
-package com.planit.assessment.pages;
+package com.project.example.pages;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.apache.commons.lang3.StringUtils;

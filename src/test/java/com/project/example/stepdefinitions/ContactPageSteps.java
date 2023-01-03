@@ -1,7 +1,7 @@
-package com.planit.assessment.stepdefinitions;
+package com.project.example.stepdefinitions;
 
-import com.planit.assessment.tasks.NavigateTo;
-import com.planit.assessment.pages.ContactPage;
+import com.project.example.tasks.NavigateTo;
+import com.project.example.pages.ContactPage;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

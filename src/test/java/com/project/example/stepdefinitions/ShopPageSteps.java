@@ -1,9 +1,9 @@
-package com.planit.assessment.stepdefinitions;
+package com.project.example.stepdefinitions;
 
-import com.planit.assessment.tasks.Buy;
-import com.planit.assessment.tasks.CheckPrices;
-import com.planit.assessment.tasks.GetShoppingList;
-import com.planit.assessment.tasks.NavigateTo;
+import com.project.example.tasks.Buy;
+import com.project.example.tasks.CheckPrices;
+import com.project.example.tasks.GetShoppingList;
+import com.project.example.tasks.NavigateTo;
 import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.Actor;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
